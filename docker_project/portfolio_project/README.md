@@ -1,6 +1,6 @@
 # 🖥️ Sathya's Portfolio Project (Dockerized)
 
-![Screenshot of Portfolio Webpage](screenshot.png)
+![Screenshot of Portfolio Webpage](Screenshot.png)
 
 
 This is a sample portfolio website created using HTML and styled with CSS. It is containerized using Docker and can run in both development and production environments.
