@@ -1,6 +1,7 @@
 # 🖥️ Sathya's Portfolio Project (Dockerized)
 
-![Screenshot of Portfolio Webpage](Screenshot.png)
+![Screenshot of Portfolio Webpage](https://raw.githubusercontent.com/PillaiSathya/portfolio_project/master/docker_project/portfolio_project/Screenshot.png)
+
 
 
 This is a sample portfolio website created using HTML and styled with CSS. It is containerized using Docker and can run in both development and production environments.
